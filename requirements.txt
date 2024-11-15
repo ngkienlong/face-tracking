@@ -1,5 +1,6 @@
 setuptools
 opencv-python
 opencv-python-headless
+opencv_contrib_python
 numpy
 streamlit
